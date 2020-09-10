@@ -191,6 +191,7 @@
     <Compile Include="Models\CustomOrder.cs" />
     <Compile Include="Models\ValueTypes\OrderNumber.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Validation\NotDefaultAttribute.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Areas\HelpPage\HelpPage.css" />
